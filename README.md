@@ -1,0 +1,1 @@
+# djangoblog_start
